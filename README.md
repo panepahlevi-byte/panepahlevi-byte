@@ -3,7 +3,7 @@
   <h3>🎒 Skill Inventory & Arsenal</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,,js,html,css,,git,vscode,mysql," />
+    <img src="https://skillicons.dev/icons?i=c,js,html,css,git,vscode,mysql," />
   </a>
 
   <br><br>
