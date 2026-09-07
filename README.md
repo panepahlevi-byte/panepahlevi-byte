@@ -28,7 +28,7 @@
 
   <!-- Deretan Ikon Skill -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,git,vscode,mysql,py,linux" />
+    <img src="https://skillicons.dev/icons?i=c,js,html,css,git,vscode,mysql" />
   </a>
 
   <br><br>
